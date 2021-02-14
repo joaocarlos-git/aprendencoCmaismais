@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1613315754 source:d:\teste\universidadeprj\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<thread>
+	"aluno.h"
+	"professor.h"
+
+1613316729 d:\teste\universidadeprj\aluno.h
+	<iostream>
+	<string>
+	"professor.h"
+
+1613316901 d:\teste\universidadeprj\professor.h
+	"aluno.h"
+	<iostream>
+	<string>
+
+1613316999 source:d:\teste\universidadeprj\aluno.cpp
+	"aluno.h"
+
+1613317046 source:d:\teste\universidadeprj\professor.cpp
+	"professor.h"
+
